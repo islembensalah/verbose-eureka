@@ -1,0 +1,10 @@
+1234567 disponible Location1 Sedan 50.0
+2345678 disponible Location2 SUV 75.5
+3456789 disponible Location3 Hatchback 40.0
+4567890 disponible Location4 Coupe 60.0
+5678901 disponible Location5 Convertible 80.0
+6789012 disponible Location6 Truck 90.0
+7890123 disponible Location7 Van 70.0
+8901234 disponible Location8 Sedan 55.0
+9012345 disponible Location9 SUV 85.5
+1230456 disponible Location10 Hatchback 45.0
